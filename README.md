@@ -9,3 +9,5 @@ Convert PHP code to Diagram
 - composer install
 - open src/index.php in browser
 - check output image in generated directory
+
+Reference library https://github.com/llaville/umlwriter
