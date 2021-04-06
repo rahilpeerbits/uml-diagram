@@ -1,0 +1,15 @@
+{
+    "require": {
+      "bartlett/umlwriter": "2.x-dev",
+      "graphp/graph": "dev-master#0d78233",
+      "graphp/graphviz": "dev-subgraph_cluster_attributes",
+      "symfony/finder": "^4.4|^5.0"
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/llaville/graphviz"
+      }
+    ]
+  }
