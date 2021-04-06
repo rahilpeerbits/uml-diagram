@@ -8,4 +8,4 @@ Convert PHP code to Diagram
 - cd uml-diagram
 - composer install
 - open src/index.php in browser
-- check output inamge in generated directory
+- check output image in generated directory
